@@ -1,0 +1,29 @@
+h3{
+    font-size: 30px;
+}
+
+.header {
+    height: 50px;
+    background-color: aquamarine;
+    width: 100%;
+    margin-left: 0;
+}
+
+img{
+    height: 230px;
+    width: 260;
+}
+
+.flexbox{
+  
+}
+
+.footer {
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-left: 0;
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
