@@ -16,18 +16,21 @@ img{
     width: 50%;
     object-fit: scale-down;
     border-radius: 5px;
+    float: right;
 }
 
 .flexbox{
-  display: flex;
+ position: Flex;
   margin: 10px 0 10px 0;
   background-color: #8FC1E3;
   border-radius: 5px;
   border: solid 2px;
+  float:left;
 }
 
 .mainContent {
     height: 100%;
+    background-color: rgb(182, 194, 182);
 }
 
 .footer {
