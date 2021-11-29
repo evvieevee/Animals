@@ -30,6 +30,7 @@ h1 {
     margin-right: 0;
     text-align: center;
     font-size: 14px;
+    color: blanchedalmond;
 }
 
 img{
@@ -43,9 +44,10 @@ img{
 
      border-radius: 8px;
      background-color:#5085A5;
-     border:solid 1px;
+     border:solid 1px black;
      margin-top: 4px;
      width: 75px;
+     color: black;
 
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  }
@@ -83,9 +85,10 @@ p {
     .menu {
         position: absolute;
         top: 45px;
-        left: 10px;
+        left: 6px;
+        width: 302px;
     }
     button {
-        width: 65px;
+        width: 72px;
     }
 }
