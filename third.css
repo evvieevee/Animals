@@ -1,22 +1,4 @@
-h3{
-    font-size: 30px;
-}
-h1 {
-    font-size: 28px;
-}
 
-.header {
-    height: 50px;
-    background-color: #31708E;
-    width: 100%;
-    margin-left: 0;
-}
-
-img{
-    width: 50%;
-    object-fit: scale-down;
-    border-radius: 5px;
-}
 
 .flexbox{
   display: flex;
@@ -26,28 +8,8 @@ img{
   border: solid 2px;
 }
 
-.mainContent {
-    height: 100%;
-    background-color: rgb(182, 194, 182);
+@media only screen and (max-width: 768px) {
+    .flexbox {
+        display: block;
+    }
 }
-
-.footer {
-    height: 60px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    margin-left: 3px;
-    background-color: rgb(37, 37, 37);
-    color: white;
-}
- button {
-
-     border-radius: 8px;
-     background-color:#5085A5;
-     border:solid 1px;
-     margin-top: 4px;
-     width: 75px;
-
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
- }
- 
